@@ -1,0 +1,2 @@
+# powerplatform_smart_yard_dock
+Powerplatform Logistic app portfolio

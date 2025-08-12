@@ -1,0 +1,18 @@
+{
+  "info": {
+    "name": "Notify_Dock_Assignment",
+    "note": "Placeholder export"
+  },
+  "definition": {
+    "triggers": {
+      "manual": {
+        "type": "Request"
+      }
+    },
+    "actions": {
+      "TeamsPost": {
+        "type": "TeamsPost"
+      }
+    }
+  }
+}

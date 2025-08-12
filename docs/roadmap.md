@@ -1,0 +1,4 @@
+- v0.1: Check‑in + Notify
+- v0.2: Yard Manager + KPI
+- v0.3: Weighbridge
+- v0.4: ANPR
