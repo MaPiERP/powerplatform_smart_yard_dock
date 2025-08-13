@@ -6,3 +6,9 @@ node_modules/
 dist/
 secrets.json
 *.pfx
+build/
+*.zip
+*.tmp
+*.user
+*.log
+*.cache
